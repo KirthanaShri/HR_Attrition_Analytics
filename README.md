@@ -6,5 +6,12 @@ Click to visit [Website](https://sites.google.com/ar.iitr.ac.in/attrition/introd
 ## About
 > This website is dedicated to analyzing attrition using IBM's synthetic data. We carried out three main processes: Objective, Analysis, and Conclusion.
 
-> For the analysis phase, we focused on three key factors: Environment Satisfaction, Job Satisfaction, and Work Life Balance. All visualizations were created using `Flourish` for interactive and engaging data presentation.
+
+##Objective
+
+To identify the factors contributing to attrition and the most critical issues to address to retain employees.
+
+##Analysis
+
+For the analysis phase, we focused on three key factors: Environment Satisfaction, Job Satisfaction, and Work Life Balance. All visualizations were created using `Flourish` for interactive and engaging data presentation. 
 

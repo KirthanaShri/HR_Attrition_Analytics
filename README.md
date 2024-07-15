@@ -23,4 +23,3 @@ For the analysis phase, we focused on three key factors: Environment Satisfactio
 
 By leveraging visualization techniques, we have identified several insights regarding attrition within the organization. These insights can serve as valuable inputs for management to implement targeted strategies aimed at improving employee satisfaction and reducing attrition rates.
 
-Addition
